@@ -1,3 +1,4 @@
+#this is the tkinkter version
 import tkinter as tk
 import tensorflow
 from tkinter import Label, Text, Button
